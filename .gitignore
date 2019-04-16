@@ -1,4 +1,4 @@
-vendor/
+todoapp-server/vendor/
 todoapp-client/node_modules/
 npm-debug.log
 
