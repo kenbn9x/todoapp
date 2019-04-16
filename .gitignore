@@ -1,20 +1,20 @@
 vendor/
-node_modules/
+todoapp-client/node_modules/
 npm-debug.log
 
 # Laravel 4 specific
-bootstrap/compiled.php
-app/storage/
+todoapp-server/bootstrap/compiled.php
+todoapp-server/app/storage/
 
 # Laravel 5 & Lumen specific
-public/storage
-public/hot
-storage/*.key
-.env.*.php
-.env.php
-.env
-Homestead.yaml
-Homestead.json
+todoapp-server/public/storage
+todoapp-server/public/hot
+todoapp-server/storage/*.key
+todoapp-server/.env.*.php
+todoapp-server/.env.php
+todoapp-server/.env
+todoapp-server/Homestead.yaml
+todoapp-server/Homestead.json
 
 # Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
 .rocketeer/
